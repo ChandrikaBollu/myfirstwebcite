@@ -1,2 +1,2 @@
 # myfirstwebcite
-it is demonstration for git and github
+it is for demonstration for git and github
